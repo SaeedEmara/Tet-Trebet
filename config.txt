@@ -1,0 +1,6 @@
+owner=517992147287408643
+prefix=x
+game=Tet trbet tet a7
+stayinchannel=true
+songinstatus=false
+token=NjA5NzQ0MDE1MTgwNjkzNTI1.XU7K_Q.GVInOAsP8cOyF1Y5irU-I9HZLBQ
